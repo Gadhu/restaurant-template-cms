@@ -1,10 +1,10 @@
 ---
-title: Puri Masal
+title: puri masal
 categories:
   - lunch
   - dinner
-description: Crispy fried pancakes with spicy potato
-type: South Indian
+description: crispy fried pancakes with spicy potato
+type: south indian
 price: '65'
 ---
 
